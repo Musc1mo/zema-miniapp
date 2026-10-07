@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T13:35:01",
+ "updated": "2026-10-07T13:40:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
+ "agent_reply": "telegram outbound send ok accountId=default chatId=291321409 messageId=378 operation=sendMessage deliveryKind=text chunkCount=1",
  "tool_calls": "(нет)"
 }
