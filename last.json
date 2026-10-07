@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T15:25:01",
+ "updated": "2026-10-07T15:30:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Another gateway (pid 68565) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
+ "agent_reply": "[openclaw] Reason: Agent main (/root/.openclaw/agents/main/agent/openclaw-agent.sqlite): database disk image is malformed (code=ERR_SQLITE_ERROR, errcode=11)\nSessions remain unavailable. Stop the Gateway, run \"openclaw doctor --fix\" to inspect and repair this agent database, and restart.",
  "tool_calls": "(нет)"
 }
