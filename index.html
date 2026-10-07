@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Зёма — Промпты</title>
+<style>
+body{font-family:-apple-system,sans-serif;background:#17212b;color:#fff;margin:0;padding:12px}
+h3{color:#6ab3f3;margin:14px 0 6px}
+pre{background:#0e1621;padding:10px;border-radius:8px;white-space:pre-wrap;word-break:break-word;font-size:12px;max-height:300px;overflow:auto}
+button{background:#5288c1;color:#fff;border:0;border-radius:8px;padding:8px 14px;margin:4px 4px 0 0;cursor:pointer}
+</style></head><body>
+<h3>🖥 Системный промпт</h3><pre id="sys">загрузка…</pre>
+<h3>👤 Сообщение пользователя</h3><pre id="usr">—</pre>
+<h3>🤖 Ответ агента</h3><pre id="ans">—</pre>
+<div id="tools"></div>
+<button onclick="refresh()">🔄 Обновить</button>
+<button onclick="copySys()">📋 Скопировать промпт</button>
+<button onclick="showTools()">🔧 Инструменты</button>
+<script>
+let DATA=null;
+async function refresh(){
+  try{ const r=await fetch('last.json?'+Date.now()); DATA=await r.json();
+    document.getElementById('sys').textContent=DATA.system_prompt||'—';
+    document.getElementById('usr').textContent=DATA.user_message||'—';
+    document.getElementById('ans').textContent=DATA.agent_reply||'—';
+  }catch(e){document.getElementById('sys').textContent='Ошибка: '+e;}
+}
+function copySys(){ if(DATA&&DATA.system_prompt) navigator.clipboard.writeText(DATA.system_prompt); }
+function showTools(){ const t=document.getElementById('tools');
+  t.innerHTML='<h3>🔧 Инструменты</h3><pre>'+((DATA&&DATA.tool_calls)||'нет вызовов')+'</pre>'; }
+refresh();
+</script></body></html>
