@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:45:02",
+ "updated": "2026-10-07T15:50:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "Gateway auth token was missing. Generated a runtime token for this startup without changing config; restart will generate a different token. Persist one with `openclaw config set gateway.auth.mode token` and `openclaw config set gateway.auth.token <token>`.",
