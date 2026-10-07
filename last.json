@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T14:40:01",
+ "updated": "2026-10-07T14:45:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
+ "agent_reply": "Another gateway (pid 68565) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
  "tool_calls": "(нет)"
 }
