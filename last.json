@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T16:50:01",
+ "updated": "2026-10-07T16:55:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "Preserved orphaned user message without removing the active session leaf. runId=73ada82e-e1ac-454a-a8e4-a02b33f05e76 sessionId=fe26a5b4-65b2-4067-a3ad-8fdf903adbb7 trigger=user",
- "agent_reply": "Agents:\n- main (default)\n  Workspace: ~/.openclaw/workspace\n  Agent dir: ~/.openclaw/agents/main/agent\n  Model: kodik/z-ai/glm-4.7-flash\n  Routing rules: 0\n  Routing: default (no explicit rules)\n  Providers:\n    - Telegram default: configured\nRouting rules map channel/account/peer to an agent. Use --bindings for full rules.\nChannel status reflects local config/creds. For live health: openclaw channels status --probe.",
+ "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
  "tool_calls": "(нет)"
 }
