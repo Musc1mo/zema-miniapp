@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T13:29:15",
+ "updated": "2026-10-07T13:35:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=z-ai/glm-4.7-flash status=200 elapsedMs=4884 dispatcher=reused contentType=text/event-stream; charset=utf-8",
+ "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
  "tool_calls": "(нет)"
 }
