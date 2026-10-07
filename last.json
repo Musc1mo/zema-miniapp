@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T16:00:01",
+ "updated": "2026-10-07T16:05:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[default] channel exited: telegram: failed to prepare ingress for account \"default\"; restart the account to retry: Failed to read plugin state entry. | OpenClaw state ownership at /root/.openclaw/state/openclaw.sqlite could not be verified; retry after maintenance finishes. | PLUGIN_STATE_READ_FAILED",
+ "agent_reply": "Another gateway (pid 101296) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
  "tool_calls": "(нет)"
 }
