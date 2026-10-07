@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T16:20:01",
+ "updated": "2026-10-07T16:25:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "Preserved orphaned user message without removing the active session leaf. runId=73ada82e-e1ac-454a-a8e4-a02b33f05e76 sessionId=fe26a5b4-65b2-4067-a3ad-8fdf903adbb7 trigger=user",
- "agent_reply": "configured channel warning: channels.openclaw-max is configured but no channel plugin is installed or loadable (no-channel-owner). Run `openclaw doctor --fix` or install the channel plugin before relying on this channel.",
+ "agent_reply": "Another gateway (pid 110390) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
  "tool_calls": "(нет)"
 }
