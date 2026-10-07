@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T14:05:01",
+ "updated": "2026-10-07T14:10:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=z-ai/glm-4.7-flash status=200 elapsedMs=3314 dispatcher=reused contentType=text/event-stream; charset=utf-8",
+ "agent_reply": "telegram transport attempt marked temporarily unhealthy for 40000ms (codes=UND_ERR_CONNECT_TIMEOUT,ETIMEDOUT,ENETUNREACH)",
  "tool_calls": "(нет)"
 }
