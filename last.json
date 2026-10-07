@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T14:35:01",
+ "updated": "2026-10-07T14:40:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Refusing to run gateway state preparation because the selected config changed during startup (config validity changed). Retry startup so the new config can be validated.",
+ "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
  "tool_calls": "(нет)"
 }
