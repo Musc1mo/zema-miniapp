@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T16:05:01",
+ "updated": "2026-10-07T16:10:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Another gateway (pid 101296) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
+ "agent_reply": "Held agent openclaw database /root/.openclaw/agents/openclaw/agent/openclaw-agent.sqlite (deletion journal unavailable); skipped session retention. Run \"openclaw doctor --fix\" for explicit restoration guidance.",
  "tool_calls": "(нет)"
 }
