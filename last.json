@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T20:45:01",
+ "updated": "2026-10-07T20:50:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "Preserved orphaned user message without removing the active session leaf. runId=73ada82e-e1ac-454a-a8e4-a02b33f05e76 sessionId=fe26a5b4-65b2-4067-a3ad-8fdf903adbb7 trigger=user",
- "agent_reply": "still draining active work before stop: queueSize=2 embeddedRuns=1 agentRuns=1 sessionAdmissions=2 rootRequests=1",
+ "agent_reply": "stopped after SIGTERM 6 times in 5 min: another supervisor may be managing this Gateway — see `openclaw gateway status --deep`",
  "tool_calls": "(нет)"
 }
