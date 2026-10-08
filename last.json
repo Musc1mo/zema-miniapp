@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T13:20:01",
+ "updated": "2026-10-08T13:25:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "stopped after SIGTERM 3 times in 5 min: another supervisor may be managing this Gateway — see `openclaw gateway status --deep`",
+ "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
  "tool_calls": "(нет)"
 }
