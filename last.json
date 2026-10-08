@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T11:25:01",
+ "updated": "2026-10-08T11:30:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "fetch fallback: primary connection path failed; trying alternative Telegram API IP (codes=UND_ERR_CONNECT_TIMEOUT)",
