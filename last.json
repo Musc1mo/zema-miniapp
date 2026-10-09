@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-09T04:30:01",
+ "updated": "2026-10-09T04:35:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-146779-fd2f083e-f7c4-4945-beda-e9289c9fa822' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
+ "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-147997-a85f803c-a130-421e-bf2b-aac6a112df48' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
  "tool_calls": "(нет)"
 }
