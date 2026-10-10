@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T20:10:05",
+ "updated": "2026-10-10T20:15:03",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "stopped after SIGTERM 3 times in 5 min: another supervisor may be managing this Gateway — see `openclaw gateway status --deep`",
+ "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":652518,\"threadId\":0,\"isMainThread\":true,\"operation\":\"session.entry-replacements\",\"elapsedMs\":4376,\"queueWaitMs\":4295,\"writerExecutionMs\":80,\"completionDelayMs\":1,\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
  "tool_calls": "(нет)"
 }
