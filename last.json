@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T01:30:01",
+ "updated": "2026-10-11T01:35:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "Итог: всё зелёное.\n\n| Проверка | Статус |\n|---|---|\n| Uptime шлюза | ✅ 2 дня 13 ч |\n| Диск / | ✅ 25% занято, свободно 72G |\n| RAM/docker | ✅ npm, redis — Up 36h |\n| open-webui | ✅ healthy (перезапустился сам, restarts=0, health-проверка прошла) |\n| ocr_monitoring_worker | 💤 Exited (0) 33h назад — штатное завершение, не падение |\n\nПроблем нет.",
