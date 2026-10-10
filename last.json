@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T01:05:01",
+ "updated": "2026-10-11T01:10:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "shutdown budget at shutdown: drain=314845ms shutdown=324845ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=330000ms",
+ "agent_reply": "[openclaw] Reason: OpenClaw state at /root/.openclaw/state/openclaw.sqlite is undergoing offline maintenance; retry when it finishes.",
  "tool_calls": "(нет)"
 }
