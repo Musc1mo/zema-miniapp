@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T00:55:01",
+ "updated": "2026-10-11T01:00:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "message processed: channel=unknown chatId=telegram:291321409 messageId=unknown sessionId=fe26a5b4-65b2-4067-a3ad-8fdf903adbb7 sessionKey=agent:main:main outcome=error duration=9167ms",
