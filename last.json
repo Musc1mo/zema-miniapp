@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T20:15:03",
+ "updated": "2026-10-10T20:20:04",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":652518,\"threadId\":0,\"isMainThread\":true,\"operation\":\"session.entry-replacements\",\"elapsedMs\":4376,\"queueWaitMs\":4295,\"writerExecutionMs\":80,\"completionDelayMs\":1,\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
+ "agent_reply": "gateway: seeded gateway.controlUi.allowedOrigins [\"http://localhost:18789\",\"http://127.0.0.1:18789\"] for bind=lan (required since v2026.2.26; see issue #29385). Applied for this runtime without writing config; add other origins to gateway.controlUi.allowedOrigins if needed.",
  "tool_calls": "(нет)"
 }
