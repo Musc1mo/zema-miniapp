@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T02:25:01",
+ "updated": "2026-10-11T02:30:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":742665,\"threadId\":0,\"isMainThread\":true,\"operation\":\"session.reclamation.worker-commit\",\"reclamationKind\":\"maintenance-plan\",\"workerThreadId\":13,\"elapsedMs\":1378,\"queueWaitMs\":0,\"writerExecutionMs\":1378,\"completionDelayMs\":0,\"reclamationAdmissionId\":1,\"reclamationAdmissionReleaseCause\":\"worker-release\",\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
