@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T02:15:01",
+ "updated": "2026-10-11T02:20:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=z-ai/glm-4.7-flash status=200 elapsedMs=5169 dispatcher=reused contentType=text/event-stream; charset=utf-8",
+ "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":742665,\"threadId\":0,\"isMainThread\":true,\"operation\":\"session.reclamation.worker-commit\",\"reclamationKind\":\"maintenance-plan\",\"workerThreadId\":13,\"elapsedMs\":1378,\"queueWaitMs\":0,\"writerExecutionMs\":1378,\"completionDelayMs\":0,\"reclamationAdmissionId\":1,\"reclamationAdmissionReleaseCause\":\"worker-release\",\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
  "tool_calls": "(нет)"
 }
