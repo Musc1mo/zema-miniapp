@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T20:20:04",
+ "updated": "2026-10-10T20:25:07",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "gateway: seeded gateway.controlUi.allowedOrigins [\"http://localhost:18789\",\"http://127.0.0.1:18789\"] for bind=lan (required since v2026.2.26; see issue #29385). Applied for this runtime without writing config; add other origins to gateway.controlUi.allowedOrigins if needed.",
+ "agent_reply": "still draining active work before stop: queueSize=2 embeddedRuns=1 backgroundExecSessions=1 agentRuns=1 sessionAdmissions=2 rootRequests=1",
  "tool_calls": "(нет)"
 }
