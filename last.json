@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T19:25:02",
+ "updated": "2026-10-10T19:30:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-638138-61929c33-c58c-459c-b713-85f403826dda' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
+ "agent_reply": "stopped after SIGTERM 3 times in 5 min: another supervisor may be managing this Gateway — see `openclaw gateway status --deep`",
  "tool_calls": "(нет)"
 }
