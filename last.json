@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T20:25:07",
+ "updated": "2026-10-10T20:30:03",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "still draining active work before stop: queueSize=2 embeddedRuns=1 backgroundExecSessions=1 agentRuns=1 sessionAdmissions=2 rootRequests=1",
+ "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-656993-ff3c6042-975b-42db-bd9e-0cb830b81fa4' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
  "tool_calls": "(нет)"
 }
