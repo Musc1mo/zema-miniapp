@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:50:01",
+ "updated": "2026-10-11T12:55:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Another gateway (pid 848739) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
+ "agent_reply": "shutdown budget at startup: drain=315000ms shutdown=325000ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=330000ms",
  "tool_calls": "(нет)"
 }
