@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T11:55:01",
+ "updated": "2026-10-11T12:00:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "transient retry window elapsed for kodik/z-ai/glm-4.7-flash after 1/8 retries; stopping same-model retries",
+ "agent_reply": "[context-pressure-diagnostic] admitted provider attempt for kodik/z-ai/glm-4.7-flash route=compact_only estimatedPromptTokens=182584 promptBudgetBeforeReserve=180000",
  "tool_calls": "(нет)"
 }
