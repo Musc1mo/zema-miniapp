@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:40:02",
+ "updated": "2026-10-11T12:45:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "⚠️ vsegpt (deepseek/deepseek-chat) returned a billing error — your API key has run out of credits or has an insufficient balance. Check your vsegpt billing dashboard and top up or switch to a different API key.",
+ "agent_reply": "Another gateway (pid 848739) already owns this state directory; refusing to run automatic startup migrations or report the gateway ready. Stop it with \"openclaw gateway stop\" (or select a different OPENCLAW_STATE_DIR), then retry startup.",
  "tool_calls": "(нет)"
 }
