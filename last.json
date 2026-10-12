@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T11:25:02",
+ "updated": "2026-10-12T11:30:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "memory-core: dreaming promotion complete (workspaces=1, candidates=0, applied=0, failed=0, degraded=0, narrativesPending=2).",
+ "agent_reply": "\u001b[38;5;167mConfig path is valid but unset: gateway.auth.rateLimit. The runtime default applies until you set an authored value with openclaw config set gateway.auth.rateLimit <value>.\u001b[39m",
  "tool_calls": "(нет)"
 }
