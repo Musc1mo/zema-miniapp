@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T14:00:01",
+ "updated": "2026-10-12T14:05:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "\u001b[38;5;167mConfig path is valid but unset: gateway.auth.rateLimit. The runtime default applies until you set an authored value with openclaw config set gateway.auth.rateLimit <value>.\u001b[39m",
+ "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":855401,\"threadId\":0,\"isMainThread\":true,\"operation\":\"session.reclamation.worker-commit\",\"reclamationKind\":\"maintenance-plan\",\"workerThreadId\":14,\"elapsedMs\":1338,\"queueWaitMs\":0,\"writerExecutionMs\":1337,\"completionDelayMs\":0,\"reclamationAdmissionId\":1,\"reclamationAdmissionReleaseCause\":\"worker-release\",\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
  "tool_calls": "(нет)"
 }
