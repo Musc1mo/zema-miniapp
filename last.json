@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T21:50:01",
+ "updated": "2026-10-13T21:55:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "memory-core: narrative generation used fallback for rem phase because the narrative run failed (The operation was aborted due to timeout).",
+ "agent_reply": "shutdown budget at startup: drain=315000ms shutdown=325000ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=330000ms",
  "tool_calls": "(нет)"
 }
