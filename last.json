@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:40:01",
+ "updated": "2026-10-13T13:45:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "memory-core: narrative generation used fallback for rem phase because the narrative run failed (The operation was aborted due to timeout).",
