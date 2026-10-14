@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T22:35:01",
+ "updated": "2026-10-14T22:40:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=google/gemini-2.5-flash status=200 elapsedMs=5240 dispatcher=reused contentType=text/event-stream; charset=utf-8",
+ "agent_reply": "Note: this command only shows OpenClaw-managed mcp.servers entries and does not include mcporter servers from config/mcporter.json.",
  "tool_calls": "(нет)"
 }
