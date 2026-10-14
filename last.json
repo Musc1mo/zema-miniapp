@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T23:30:01",
+ "updated": "2026-10-14T23:35:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "bundle-mcp runtime disposal during config reload failed: Error: MCP runtime cleanup could not confirm closure",
+ "agent_reply": "MCP probe failed for \"filesystem\" in /root/.openclaw/openclaw.json: MCP server \"filesystem\" timed out: did not complete initialize within 30s | MCP server connection timed out after 30000ms | The operation was aborted due to timeout | 23; server unavailable; retry after 2026-10-14T20:33:20.483Z. Check server reachability or reload MCP after fixing it.",
  "tool_calls": "(нет)"
 }
