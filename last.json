@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T23:35:01",
+ "updated": "2026-10-14T23:40:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "MCP probe failed for \"filesystem\" in /root/.openclaw/openclaw.json: MCP server \"filesystem\" timed out: did not complete initialize within 30s | MCP server connection timed out after 30000ms | The operation was aborted due to timeout | 23; server unavailable; retry after 2026-10-14T20:33:20.483Z. Check server reachability or reload MCP after fixing it.",
+ "agent_reply": "Note: this command only shows OpenClaw-managed mcp.servers entries and does not include mcporter servers from config/mcporter.json.",
  "tool_calls": "(нет)"
 }
