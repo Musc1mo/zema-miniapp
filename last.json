@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T00:05:01",
+ "updated": "2026-10-15T00:10:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":1522337,\"threadId\":0,\"isMainThread\":true,\"operation\":\"session.entry-replacements\",\"elapsedMs\":1895,\"queueWaitMs\":1849,\"writerExecutionMs\":45,\"completionDelayMs\":1,\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
+ "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=google/gemini-2.5-flash status=200 elapsedMs=4960 dispatcher=reused contentType=text/event-stream; charset=utf-8",
  "tool_calls": "(нет)"
 }
