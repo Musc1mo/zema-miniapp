@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T23:50:01",
+ "updated": "2026-10-14T23:55:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Config warnings: plugins.deny: Plugin \"openclaw-max\" settings cannot be checked until its data/settings upgrade finishes. Your existing settings have been kept. Run \"openclaw update status\" for repair details.",
+ "agent_reply": "Agents:\n- main (default)\n  Workspace: ~/.openclaw/workspace\n  Agent dir: ~/.openclaw/agents/main/agent\n  Model: kodik/google/gemini-2.5-flash\n  Routing rules: 0\n  Routing: default (no explicit rules)\nRouting rules map channel/account/peer to an agent. Use --bindings for full rules.\nChannel status reflects local config/creds. For live health: openclaw channels status --probe.",
  "tool_calls": "(нет)"
 }
