@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T22:40:01",
+ "updated": "2026-10-14T22:45:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Note: this command only shows OpenClaw-managed mcp.servers entries and does not include mcporter servers from config/mcporter.json.",
+ "agent_reply": "MCP probe failed for \"bash\" in /root/.openclaw/openclaw.json: stdio startup cleanup did not confirm closure | service child cleanup identity lost: spawn owui-bash-mcp ENOENT; server unavailable; retry after 2026-10-14T19:44:38.728Z. Check server reachability or reload MCP after fixing it.",
  "tool_calls": "(нет)"
 }
