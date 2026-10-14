@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T02:45:01",
+ "updated": "2026-10-15T02:50:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-1567002-9ef94d5d-3890-4e9f-b588-0b8c4f931eb9' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
+ "agent_reply": "Gateway agent call connection closed; the Gateway may still be running this turn. Check `openclaw gateway status` and the session transcript before retrying or rerunning with --local, so the turn does not execute twice.",
  "tool_calls": "(нет)"
 }
