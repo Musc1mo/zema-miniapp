@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T00:55:01",
+ "updated": "2026-10-15T01:00:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "memory pressure: level=warning reason=rss_threshold rss=1.51 GiB heap=264.4 MiB threshold=1.5 GiB thresholdRatio=100.5% rssBytes=1618247680 heapUsedBytes=277258040 externalBytes=40745025 arrayBuffersBytes=2849706 workerHeapTotalBytes=687263744 workerHeapUsedBytes=615111672 workerExternalBytes=84325805 workerArrayBuffersBytes=11877500 workerCount=12 workerHeapSampledCount=12 workerArrayBuffersSampledCount=8 workerMemoryCoverage=partial workerMemoryScope=direct workerHeaps=[{\"script\":\"prepared-model-catalog.worker.js\",\"threadId\":8,\"heapUsed\":124970392,\"heapTotal\":128102400,\"external\":7886491,\"arrayBuffers\":2200447,\"sampleAgeMs\":29999},{\"script\":\"session-transcript.worker.js\",\"threadId\":5,\"heapUsed\":80095024,\"heapTotal\":97259520,\"external\":13668060,\"arrayBuffers\":7441839,\"sampleAgeMs\":29961},{\"script\":\"session-transcript.worker.js\",\"threadId\":6,\"heapUsed\":77238912,\"heapTotal\":79958016,\"external\":6505137,\"arrayBuffers\":887415,\"sampleAgeMs\":29999},{\"script\":\"sqlite-store.worker.js\",\"threadId\":2,\"heapUsed\":55976384,\"heapTotal\":60157952,\"external\":4682806,\"sampleAgeMs\":29998},{\"script\":\"sqlite-store.worker.js\",\"threadId\":11,\"heapUsed\":46064152,\"heapTotal\":48705536,\"external\":4527317,\"sampleAgeMs\":29999}] thresholdBytes=1610612736 workerLimitScope=js-heap-only; external/ArrayBuffers are not capped; nested workers are not included. nextStep=run openclaw gateway status --deep and openclaw gateway diagnostics export; restart gateway if pressure persists",
+ "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=google/gemini-2.5-flash status=200 elapsedMs=1199 dispatcher=reused contentType=text/event-stream; charset=utf-8",
  "tool_calls": "(нет)"
 }
