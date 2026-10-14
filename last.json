@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T16:20:01",
+ "updated": "2026-10-14T16:25:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=moonshotai/kimi-k2 status=200 elapsedMs=5447 dispatcher=reused contentType=text/event-stream; charset=utf-8",
+ "agent_reply": "(node:1315497) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [process]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit\n(Use `node --trace-warnings ...` to show where the warning was created)",
  "tool_calls": "(нет)"
 }
