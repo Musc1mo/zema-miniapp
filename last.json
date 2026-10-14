@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T00:15:01",
+ "updated": "2026-10-15T00:20:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "[context-pressure-diagnostic] admitted provider attempt for kodik/google/gemini-2.5-flash route=compact_only estimatedPromptTokens=181483 promptBudgetBeforeReserve=180000",
+ "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=google/gemini-2.5-flash status=200 elapsedMs=4641 dispatcher=reused contentType=text/event-stream; charset=utf-8",
  "tool_calls": "(нет)"
 }
