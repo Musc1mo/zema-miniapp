@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T23:40:01",
+ "updated": "2026-10-14T23:45:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Note: this command only shows OpenClaw-managed mcp.servers entries and does not include mcporter servers from config/mcporter.json.",
+ "agent_reply": "Config warnings: plugins.deny: Plugin \"openclaw-max\" settings cannot be checked until its data/settings upgrade finishes. Your existing settings have been kept. Run \"openclaw update status\" for repair details.",
  "tool_calls": "(нет)"
 }
