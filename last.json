@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:45:02",
+ "updated": "2026-10-14T23:50:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "Config warnings: plugins.deny: Plugin \"openclaw-max\" settings cannot be checked until its data/settings upgrade finishes. Your existing settings have been kept. Run \"openclaw update status\" for repair details.",
