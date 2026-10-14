@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T22:45:01",
+ "updated": "2026-10-14T22:50:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "MCP probe failed for \"bash\" in /root/.openclaw/openclaw.json: stdio startup cleanup did not confirm closure | service child cleanup identity lost: spawn owui-bash-mcp ENOENT; server unavailable; retry after 2026-10-14T19:44:38.728Z. Check server reachability or reload MCP after fixing it.",
+ "agent_reply": "Config warnings: plugins.deny: Plugin \"openclaw-max\" settings cannot be checked until its data/settings upgrade finishes. Your existing settings have been kept. Run \"openclaw update status\" for repair details.",
  "tool_calls": "(нет)"
 }
