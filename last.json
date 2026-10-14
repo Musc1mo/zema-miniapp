@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T02:20:01",
+ "updated": "2026-10-15T02:25:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Refusing to run gateway state preparation because the selected config changed during startup (config validity changed). Retry startup so the new config can be validated.",
+ "agent_reply": "shutdown budget at shutdown: drain=74872ms shutdown=84872ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=90000ms",
  "tool_calls": "(нет)"
 }
