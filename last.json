@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T22:50:01",
+ "updated": "2026-10-14T22:55:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Config warnings: plugins.deny: Plugin \"openclaw-max\" settings cannot be checked until its data/settings upgrade finishes. Your existing settings have been kept. Run \"openclaw update status\" for repair details.",
+ "agent_reply": "MCP probe failed for \"bash\" in /root/.openclaw/openclaw.json: MCP server \"bash\" timed out: did not complete initialize within 30s | MCP server connection timed out after 30000ms | The operation was aborted due to timeout | 23; server unavailable; retry after 2026-10-14T19:54:32.972Z. Check server reachability or reload MCP after fixing it.",
  "tool_calls": "(нет)"
 }
