@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:25:01",
+ "updated": "2026-10-15T21:30:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "Refusing to bind gateway to lan without auth.\nSet gateway.auth.token/password (or OPENCLAW_GATEWAY_TOKEN/OPENCLAW_GATEWAY_PASSWORD) or pass --token/--password.",
