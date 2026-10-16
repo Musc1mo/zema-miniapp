@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T04:35:01",
+ "updated": "2026-10-16T04:40:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-1912184-4eca158b-5801-4964-89d4-2b87bc85aca1' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
+ "agent_reply": "Gateway heap: service argv: --max-old-space-size=2048; installer recommendation: 2048 MiB old space (3398 MiB physical capacity; adaptive cap 8192 MiB; native headroom cap 2548 MiB); runtime V8 ceiling: not measured",
  "tool_calls": "(нет)"
 }
