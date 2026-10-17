@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T19:55:01",
+ "updated": "2026-10-17T20:00:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "stopped after SIGTERM 7 times in 5 min: another supervisor may be managing this Gateway — see `openclaw gateway status --deep`",
+ "agent_reply": "shutdown budget at startup: drain=315000ms shutdown=325000ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=330000ms",
  "tool_calls": "(нет)"
 }
