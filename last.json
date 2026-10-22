@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T20:00:01",
+ "updated": "2026-10-22T20:05:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Held agent main database /root/.openclaw/agents/main/agent/openclaw-agent.sqlite (deletion journal unavailable); skipped session retention. Run \"openclaw doctor --fix\" for explicit restoration guidance.",
+ "agent_reply": "slow SQLite session write {\"agentId\":\"main\",\"pid\":29888,\"threadId\":0,\"isMainThread\":true,\"operation\":\"sessions.transcript-index.preflight\",\"elapsedMs\":1185,\"queueWaitMs\":1,\"writerExecutionMs\":1184,\"completionDelayMs\":0,\"storePath\":\"/root/.openclaw/agents/main/agent/openclaw-agent.sqlite\"}",
  "tool_calls": "(нет)"
 }
