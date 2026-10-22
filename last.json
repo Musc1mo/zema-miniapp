@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T16:45:02",
+ "updated": "2026-10-22T16:50:04",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "gateway: Control UI asset retention failed: ENOTEMPTY: directory not empty, rename '/root/.openclaw/cache/control-ui-assets/.staging-1582432-b047fa55-b5ae-41d0-9945-d4e6f5a92685' -> '/root/.openclaw/cache/control-ui-assets/5fd9249fad86be6f90f4c6cb3275aa24ae17b47693be738f24d9e138c9097566'",
+ "agent_reply": "Held agent main database /root/.openclaw/agents/main/agent/openclaw-agent.sqlite (deletion journal unavailable); skipped session retention. Run \"openclaw doctor --fix\" for explicit restoration guidance.",
  "tool_calls": "(нет)"
 }
