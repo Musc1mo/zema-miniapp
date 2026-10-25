@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T04:00:01",
+ "updated": "2026-10-25T04:05:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Held agent main database /root/.openclaw/agents/main/agent/openclaw-agent.sqlite (deletion journal unavailable); skipped session retention. Run \"openclaw doctor --fix\" for explicit restoration guidance.",
+ "agent_reply": "[model-fetch] response provider=kodik api=openai-completions model=google/gemini-2.5-flash status=200 elapsedMs=2062 dispatcher=reused contentType=text/event-stream; charset=utf-8",
  "tool_calls": "(нет)"
 }
