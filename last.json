@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T07:55:02",
+ "updated": "2026-10-27T08:00:01",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
- "agent_reply": "Held agent main database /root/.openclaw/agents/main/agent/openclaw-agent.sqlite (deletion journal unavailable); skipped session retention. Run \"openclaw doctor --fix\" for explicit restoration guidance.",
+ "agent_reply": "shutdown budget at shutdown: drain=314866ms shutdown=324866ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=330000ms",
  "tool_calls": "(нет)"
 }
