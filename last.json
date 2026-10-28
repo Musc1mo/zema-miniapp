@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:55:01",
+ "updated": "2026-10-28T12:00:02",
  "system_prompt": "(системный промпт не найден в логе)",
  "user_message": "(нет)",
  "agent_reply": "shutdown budget at shutdown: drain=314888ms shutdown=324888ms reserve=10000ms exitMargin=5000ms; source=systemd user openclaw-gateway.service TimeoutStopUSec=330000ms",
